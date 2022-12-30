@@ -34,14 +34,6 @@ _Las herramientas utilizadas son las siguientes_
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de Codigo
 * [Git](https://git-scm.com/) - Manejador de Versiones
 
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://github.com/tu/proyecto/wiki) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
 ## Autores ✒️
 
 * **Daniel Luna** - *Trabajo Inicial* - [DanieLuna15](https://github.com/DanieLuna15)
