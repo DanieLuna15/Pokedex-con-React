@@ -1,3 +1,56 @@
+# WebAPP de Listado de Pokemon
+
+_Sistema desarrollado por Daniel Luna a modo de practica y material educativo_
+
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+### Pre-requisitos 📋
+
+_Para poder inicializar el sistema se requiere lo siguiente :_
+
+```
+1. Node JS.
+2. Visual Studio Code (Editor de Codigo).
+3. GIT.
+4. React.
+```
+
+### Instalación 🔧
+```
+_Bajar los archivos
+
+```
+
+## Despliegue 📦
+
+_Construir y publicar_
+
+## Construido con 🛠️
+
+_Las herramientas utilizadas son las siguientes_
+
+* [Visual Studio Code](https://code.visualstudio.com/) - Editor de Codigo
+* [Git](https://git-scm.com/) - Manejador de Versiones
+
+## Contribuyendo 🖇️
+
+Por favor lee el [CONTRIBUTING.md](https://github.com/tu/proyecto/wiki) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+
+## Autores ✒️
+
+* **Daniel Luna** - *Trabajo Inicial* - [DanieLuna15](https://github.com/DanieLuna15)
+
+
+## Expresiones de Gratitud 🎁
+---
+⌨️ con ❤️ por [DanieLuna15](https://github.com/DanieLuna15) 😊
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +97,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
